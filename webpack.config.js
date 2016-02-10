@@ -1,6 +1,5 @@
 var path = require('path')
 var webpack = require('webpack')
-var babel = require('babel-loader')
 
 module.exports = {
   entry: './src/index.js',
