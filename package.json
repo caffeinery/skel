@@ -1,5 +1,6 @@
 {
   "private": true,
+  "main": "lib/index.js",
   "devDependencies": {
     "babel-core": "^6.5.1",
     "babel-loader": "^6.2.2",
