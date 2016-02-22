@@ -2,9 +2,6 @@
 
 Every Caffeinery project from now on intends to build with webpack and babel, and because it's probably best to do this, we made a sort of /etc/skel for our products to re-use with some custom configuration along the way. Caffeinery can then kind of look after this skeleton as we learn more as well as keeping the repos up to date.
 
-## Why webpack?
-
-We just find it really easy to use and set up and there seems to be less maintenance needed over something like gulp or grunt. It's a matter of personal taste. There's also some other cool things webpack could do in the future for us such as live-reloading react code should we intend to use this for any web projects in the future. For more information you can always see this talk @Kerry350 did at Frontend NE which helped convince @michealharker that webpack is the right tool for us: http://frontendne.co.uk/talks/webpack-the-how-and-the-why.
 
 ## I have a suggestion!
 
